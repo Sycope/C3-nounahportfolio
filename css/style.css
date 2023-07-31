@@ -1,0 +1,28 @@
+.banner-title {
+    font-family:'Faster One', cursive;
+}
+body{
+  font-family: 'Oswald', sans-serif;  
+}
+button {
+    font-family: 'Oswald', sans-serif;
+}
+.collapse-content p {
+  margin: 0;
+}
+
+.skill {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 5px 10px;
+  background-color: #f2f2f2;
+  border-radius: 5px;
+  font-size: 14px;
+  transition: background-color 0.2s ease;
+}
+
+
+.skill:hover {
+  background-color: #069696;
+  cursor: pointer; 
+}
